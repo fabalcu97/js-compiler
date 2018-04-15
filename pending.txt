@@ -1,0 +1,4 @@
+Symbols table: Store all ids. not repeated;
+Remove commentaries before reaching lexic analysis.
+Error handling.
+ADd count, INNER JOIN, |
